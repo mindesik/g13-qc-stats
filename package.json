@@ -1,5 +1,5 @@
 {
-  "name": "logitech-g13-qc-stats",
+  "name": "g13-qc-stats",
   "version": "1.0.0",
   "description": "Fetching stats from Bethesda's Quake Champions website, saves images to display them on LCD.",
   "main": "index.js",

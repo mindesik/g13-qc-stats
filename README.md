@@ -18,12 +18,12 @@ Fetching stats from Bethesda's Quake Champions website, saves images to display 
 - Install AIDA64, Nodejs.
 - Install font from *fonts* directory.
 - Run AIDA64, open settings, go to *LCD* and enable *Logitech G15/G19*, go to *LCD Items* and import *quake-g13.lglcd* file from *lcd* directory.
-- Include package: `yarn require logitech-g13-qc-stats`.
+- Include package: `yarn require g13-qc-stats`.
 - Create script:
 
 ```javascript
 const path = require('path')
-const qcStats = require('logitech-g13-qc-stats')
+const qcStats = require('g13-qc-stats')
 
 const config = {
   player: 'Mister Paladin', // Player name to fetch, required
