@@ -1,8 +1,10 @@
 # Logitech G13 LCD stats for Quake Champions
 
-Fetching stats from Bethesda's Quake Champions website, saves images to display them on LCD.
+Quake Champions stats for Logitech G13 LCD Advanced Gameboard
 
 ![banner](/banner.jpg)
+
+Fetching stats from Bethesda's Quake Champions website, saves images to display them on LCD.
 
 ## Requirements
 
