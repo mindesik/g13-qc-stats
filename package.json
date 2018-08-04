@@ -1,7 +1,7 @@
 {
   "name": "g13-qc-stats",
-  "version": "1.0.0",
-  "description": "Fetching stats from Bethesda's Quake Champions website, saves images to display them on LCD.",
+  "version": "1.0.1",
+  "description": "Quake Champions stats for Logitech G13 LCD Advanced Gameboard",
   "main": "index.js",
   "dependencies": {
     "request": "^2.87.0",
