@@ -2,6 +2,8 @@
 
 Fetching stats from Bethesda's Quake Champions website, saves images to display them on LCD.
 
+![banner](/banner.jpg)
+
 ## Requirements
 
 - Logitech G13 Advanced Gameboard
