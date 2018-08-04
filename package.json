@@ -1,0 +1,19 @@
+{
+  "name": "logitech-g13-qc-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.87.0",
+    "text2png": "^2.0.0-alpha.8"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "rimraf": "^2.6.2"
+  },
+  "scripts": {
+    "test": "yarn run mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
