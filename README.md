@@ -6,6 +6,17 @@ Quake Champions stats for Logitech G13 LCD Advanced Gameboard
 
 Fetching stats from Bethesda's Quake Champions website, saves images to display them on LCD.
 
+Shows:
+- Player level
+- Win/lost rate
+- Total wins games
+- Total lost games
+- Total played games
+- Kill/death ratio
+- Total kills
+- Total deaths
+- Duel/TDM skill rating
+
 ## Requirements
 
 - Logitech G13 Advanced Gameboard
